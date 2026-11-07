@@ -8,4 +8,4 @@
 We logged twelve drafting sessions with a lightweight recorder.
 
 == Discussion
-Shared previews shorten the review cycle.
+Shared previews shorten the review cycle. Reviewers no longer wait for a compiled PDF.
