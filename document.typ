@@ -5,7 +5,7 @@
 = Field Notes on Shared Writing
 
 == Method
-We logged twelve drafting sessions with a fast recorder.
+We logged twelve drafting sessions with a lightweight recorder.
 
 == Discussion
 Shared previews shorten the review cycle.
